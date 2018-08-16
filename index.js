@@ -9,5 +9,5 @@ function whisper(string) {
 function logShout(string) {
   var upperCaseString =  `$string`.toUpperCase();
   console.log(upperCaseString)
-  return uppercaseString
+  return upperCaseString
 }
